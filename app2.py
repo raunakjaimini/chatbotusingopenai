@@ -72,7 +72,7 @@ def generate_response(question, api_key, engine, temperature, max_tokens):
     return answer
 
 # Title of the app
-st.title("💬 Not Chatgpt")
+st.title("💬 Chat-Mate: Ask me anything brother...")
 
 # Sidebar for settings
 st.sidebar.title("⚙️ Settings")
